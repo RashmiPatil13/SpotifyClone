@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #000000d2;
+    width: 100vw;
+     border: 1px;
+    display: flex;
+    /* margin-bottom: 70px; */
+}
+#side-bar{
+    
+    background-color: black; 
+    margin-left: 10px;
+    width: 23%;
+   top: 1px;
+}
+.imgy{
+    height: 60px;
+    width: 45px;
+}
+.imgx{
+    height: 45px;
+}
+.home1{
+    
+    margin-left: 10px;  
+    background-color: hsla(0, 3%, 15%, 0.897); 
+    width: 18vw;
+    border-radius: 10px;
+}
+
+.playlist{
+    margin-left: 10px;
+    width:1px;
+    height: 1px;
+}
+.song>img{
+    background:linear-gradient(315deg, white ,blue) ;
+    border-radius: 5px;
+}
+#left-side{
+    width: 77%;
+    background-color: rgb(33, 29, 29);
+    
+}
+.pop{
+    padding-top: 150px;
+    background: linear-gradient(180deg, #90AEA7 0%, #251b1b 89.7%);
+
+}
+.play{
+    background-color: #251b1b;
+    height: 100px;
+}
+.table{
+    background-color: #251b1b;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.album{
+    padding-top: 430px;
+}
+footer{
+    background-color:  #181818;
+    left:0;
+    bottom:0;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    
+}
+.mid{
+     padding-left: 400px;
+}
+#mu{
+    padding-left: 280px;
+}
